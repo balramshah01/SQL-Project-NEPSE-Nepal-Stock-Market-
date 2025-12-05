@@ -48,7 +48,8 @@ This project was developed under the **Advanced SQL Module (Dursikshya Training 
 ---
 
 ## 🖼 ERD Diagram
-https://github.com/balramshah01/SQL-Project-NEPSE-Nepal-Stock-Market-/blob/main/NEPSE%20(ERD).png
+<img width="1001" height="972" alt="NEPSE (ERD)" src="https://github.com/user-attachments/assets/830c985d-e4e4-4469-862e-d0c10b5c0c24" />
+
 
 ---
 
