@@ -48,13 +48,7 @@ This project was developed under the **Advanced SQL Module (Dursikshya Training 
 ---
 
 ## 🖼 ERD Diagram
-> Insert your ERD screenshot here
-
-```
-[![NEPSE ERD](https://github.com/user-attachments/assets/a7986fbf-3983-4145-9717-b9452a8bcd00)
-]
-```
-
+![NEPSE ERD](https://github.com/user-attachments/assets/a7986fbf-3983-4145-9717-b9452a8bcd00)
 ---
 
 ## 🏛 Entities Overview
