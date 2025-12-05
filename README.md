@@ -51,8 +51,8 @@ This project was developed under the **Advanced SQL Module (Dursikshya Training 
 > Insert your ERD screenshot here
 
 ```
-[ <img width="1001" height="972" alt="NEPSE (ERD)" src="https://github.com/user-attachments/assets/bac79ff5-5d18-4c4f-9a1b-9de19d6de882" />
-]
+[<img width="1001" height="972" alt="NEPSE (ERD)" src="https://github.com/user-attachments/assets/a7986fbf-3983-4145-9717-b9452a45d6b8" />
+ ]
 ```
 
 ---
